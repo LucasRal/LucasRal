@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning Big Data (The apache hadoop ecosystem) and advanced Deep Learning (CNN's, RNN's...) gradually.
    I am an intern Data Engineer in an "IT industry of an international group".
 
-- 💞️ I’m open to any projects relative to data science and machine learning.
+- 💞️ I’m open to any projects relative to data science and Machine Learning.
 
-- 📫 How to reach me ? leave me a mail at lucas.ra.331@gmail.com
+- 📫 How to reach me ? leave a mail at lucas.ra.331@gmail.com
 <!---
 LucasRal/LucasRal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
