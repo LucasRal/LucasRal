@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas RALAMBO
 
-- 👀 I’m interested in everything around tech in general. But mostly interested in implementing and 
+- 👀 I’m interested in everything around tech in general. But mostly passionated about implementing and 
   applying Machine Learning algorithms to any kind of fields (Finance, Marketing, Social media...).
   In fact, I do enjoy experimenting myself with different Machine Learning methods such as NLP and CV.
   And my best part is when I dive deeper and try to understand the very fundamental concept of a model. Besides, I've always been in love with Maths and Stats.
