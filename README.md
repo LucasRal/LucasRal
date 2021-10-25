@@ -7,8 +7,8 @@
   I feel even more confident about my skills when I get the point of when to actually use a learning model over an alternative one given any constraints.
   
 
-- 🌱 I’m currently learning Big Data (The apache hadoop ecosystem) and advanced Deep Learning (CNN's, RNN's...) gradually .
--   I am an intern Data Engineer in an "IT industry of an international group".
+- 🌱 I’m currently learning Big Data (The apache hadoop ecosystem) and advanced Deep Learning (CNN's, RNN's...) gradually.
+   I am an intern Data Engineer in an "IT industry of an international group".
 
 - 💞️ I’m open to any projects relative to data science and machine learning.
 
