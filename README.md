@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucas RALAMBO
+- 👋 Hi, I’m Lucas RALAMBO
 
 - 👀 I’m interested in everything around tech in general. But mostly passionated about implementing and 
   applying Machine Learning algorithms to any kind of fields (Finance, Marketing, Social media...).
