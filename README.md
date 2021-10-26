@@ -8,8 +8,8 @@
   
 
 - 🌱 I've recently been learning and continue to learn Big Data processing (The apache hadoop ecosystem) and advanced Deep Learning algorithms (CNN's, RNN's...) gradually.
-   Currently, I am an intern Data Engineer in an "IT industry of an international group".
-
+   
+   
 - 💞️ I’m open to any projects related to Data Science and Machine Learning.
 
 - 📫 How to reach me ? leave a mail at lucas.ra.331@gmail.com
