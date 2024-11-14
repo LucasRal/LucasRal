@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Lucas RALAMBO
+- 👋 Hi, I'm @Lucas RALAMBO
 
-- 👀 And I am a Cloud Data Engineer.
+- 🤖 I'm an AI & Analytics Engineer passionate about unlocking the potential of AI-driven insights
 
-- 🌱 I help companies to conceive and implement Data Workflows for data driven solutions.
-  
+- 🔮 I help organizations navigate the evolving AI landscape by leveraging cutting-edge technologies
+
+- 📈 Focused on delivering impactful solutions that transform data into confident, strategic decisions
+
+- 🌟 Building bridges between advanced AI technologies and real-world business outcomes
